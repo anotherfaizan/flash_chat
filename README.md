@@ -1,7 +1,7 @@
 # Flash Chat
 
 A chat application to communicate with people anywhere in the world by sending and receiving messages in real time.
-This app enables a private messaging function between two or more people.
+This app enables a private messaging function between two or more persons.
 
 #### UI of the app
 
